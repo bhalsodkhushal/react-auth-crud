@@ -1,0 +1,23 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  float: left;
+  color: white;
+  font-size: 24px;
+}
+
+.header-menu {
+    float: right;
+}
+
+.ant-layout-content {
+  margin-top: 30px;
+}
+
+.register-page-link {
+  float: right;
+}
+
+.color-block {
+  height: 200px;
+}
